@@ -6,6 +6,7 @@
 - Phone: (561) 249-0094
 - Email: gardenautocare@gmail.com
 - Address: 900 Old Dixie Hwy, Lake Park, FL 33403
+- Website: https://garden-auto-care-production.up.railway.app/
 
 ## Services
   - Diagnostics
@@ -15,5 +16,10 @@
   - Wheel &amp; Tire Balancing
   - Pre-Purchase Inspections
 
-## Links
+## Service Area
+- Primary: Lake Park, FL
+- Also serving: greater Lake Park metropolitan area
+
+## Pages
 - [Homepage](https://garden-auto-care-production.up.railway.app/)
+- [FAQ](https://garden-auto-care-production.up.railway.app/faq.html)
